@@ -1,6 +1,6 @@
 ---
 title: "O que significa 2 bits por pixel?"
-date: 2024-02-10T21:04:53-03:00
+date: 2024-02-10T20:28:00-03:00
 categories:
 - Development
 tags:

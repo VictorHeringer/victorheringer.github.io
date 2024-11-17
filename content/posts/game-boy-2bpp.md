@@ -6,7 +6,7 @@ categories:
 tags:
 - Gameboy
 - C
-- Gamed Dev
+- Game Dev
 # bookComments: false
 # bookSearchExclude: false
 ---

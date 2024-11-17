@@ -1,12 +1,13 @@
 ---
 title: "Parte 1 - Criando seu próprio Tamagotchi"
+draft: true
 date: 2024-02-10T20:28:00-03:00
 categories:
 - Development
 tags:
 - Gameboy
 - C
-- Gamed Dev
+- Game Dev
 - Arduino
 # bookComments: false
 # bookSearchExclude: false
